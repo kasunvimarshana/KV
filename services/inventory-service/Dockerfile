@@ -1,4 +1,4 @@
-# Auth Service Dockerfile
+# Inventory Service Dockerfile
 # Multi-stage build for production optimization
 
 FROM php:8.3-fpm-alpine AS base
